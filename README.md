@@ -18,4 +18,20 @@ This repository contains a **Dataset (.xlsx file)** & **Power BI dashboard (.pbi
 ## 📥 Installation & Usage  
 1. **Clone this repository:**  
    ```sh
-   git clone https://github.com/yourusername/amazon-sales-dashboard.git
+   git clone https://github.com/imvinxx/Amazon-Sales-Dashboard.git
+
+2. **Open the Power BI file:**
+- Install Power BI Desktop (if not already installed).
+- Open the Amazon_sales_dashboard.pbix file in Power BI.
+
+3. **Load your dataset (if applicable).**
+   
+4. **Refresh the visuals to update insights.**
+
+
+## 🛠️ Requirements
+- **Microsoft Power BI Desktop**
+- **Amazon Sales Dataset**
+
+## 📜 License
+This project is licensed under the MIT License.
